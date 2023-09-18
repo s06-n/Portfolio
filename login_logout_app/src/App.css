@@ -1,0 +1,45 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color:pink;
+}
+.container{
+        width: 382px;
+        overflow: hidden;
+        margin: auto;
+        margin: 20 0 0 450px;
+        padding: 80px;
+        background: plum;
+        border-radius: 15px;
+        text-align: center;
+        margin-top: 100px;
+}
+label {
+  display: inline-block;
+  width: 150px;
+  text-align: center;
+}
+input{
+  margin: center;
+  background-color: pink;
+}
+button {
+  height: 40px;
+  width: 100px;
+  margin-top: 40px;
+  border-color: rgb(239, 21, 130);
+  padding: 0 15px;
+  color: rgb(250, 173, 186);
+  font-weight: bold;
+  background-color: rgb(193, 121, 241);
+  border-radius: 10px;
+}
+button:hover {
+      color:rgb(153, 95, 191);
+      background-color: pink;
+}
+.font{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:blueviolet
+}
